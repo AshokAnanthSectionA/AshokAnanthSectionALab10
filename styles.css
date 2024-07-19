@@ -1,0 +1,20 @@
+/* Custom styles */
+.jumbotron {
+    background: url('hero-background.jpg') no-repeat center center;
+    background-size: cover;
+    color: #fff;
+}
+
+.card img {
+    max-height: 200px;
+    object-fit: cover;
+}
+
+/* Footer icons */
+.footer a {
+    color: #333;
+}
+
+.footer a:hover {
+    color: #007bff;
+}
